@@ -1,7 +1,3 @@
-🎬 Intro Video
-Get a quick overview of Project Raseed — what it is, why it matters, and how it can transform your financial management experience.
-https://github.com/user-attachments/assets/6228bd32-60d2-4681-a051-8f18ca75a64d
-
 # 🧾 Project Raseed — AI-powered Receipt Manager & Financial Advisor
 
 **Project Raseed** is an AI-driven personal finance assistant integrated with Google Wallet. It helps users effortlessly manage receipts, track expenses, plan budgets, and receive smart financial recommendations — all in one unified dashboard.
@@ -90,15 +86,11 @@ To contribute:
 ---
 
 📸 Screenshots
-<img width="1902" height="948" alt="image" src="https://github.com/user-attachments/assets/043858b1-8531-4fea-9da1-e89d25414ffb" />
-<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/1263c8f3-0362-4914-912a-0f8ee5491139" />
-<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/9b96f57f-6339-4c52-8e85-35ef62095465" />
-<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/50f0e513-1949-44a3-9ea4-7d23a4a0eb95" />
-<img width="1901" height="945" alt="image" src="https://github.com/user-attachments/assets/12369706-ee0d-40b5-b0f6-5f684ec63174" />
-<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/fb4b04b0-6128-4b25-aede-1f834366720f" />
-<img width="1917" height="947" alt="image" src="https://github.com/user-attachments/assets/7b716d86-49a1-4f0b-b944-40299b10a0cd" />
-<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/e5a0598d-8bb5-4e19-b3f3-18522b542601" />
-<img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/e9398766-40a7-436c-8133-d77f0a2276c2" />
+<img width="1919" height="1005" alt="Screenshot 2025-08-02 004051" src="https://github.com/user-attachments/assets/ff8ce66b-f155-451c-ac09-9caab15479c1" />
+<img width="1919" height="1004" alt="Screenshot 2025-08-02 003643" src="https://github.com/user-attachments/assets/e6bed3ab-e573-4e39-b0dc-1eab60fae6be" />
+<img width="1914" height="1012" alt="Screenshot 2025-08-02 003618" src="https://github.com/user-attachments/assets/0a953b3c-7875-49c9-bd6a-a492d0be3d30" />
+<img width="1919" height="1010" alt="Screenshot 2025-08-02 003556" src="https://github.com/user-attachments/assets/3f23bfb5-a98c-4d94-b4a0-017228764d49" />
+<img width="1919" height="1011" alt="Screenshot 2025-08-02 003535" src="https://github.com/user-attachments/assets/bbe4e105-f06c-4ee1-a5e4-6f99c39f59e3" />
 
 ---
 
